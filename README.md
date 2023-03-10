@@ -8,6 +8,9 @@ The project consists of a single PCB which plugs directly into a STM32F746 Disco
 
 The power output is 500 mWatt and the receive Minimum Descernible Signal (MDS) is better than -120 dBm
 
+The board is based on the ADX Transceivers which Barb has design. This series of transceivers uses plug in Band Pass filters.
+This project provides signal generation and reception for the 80, 40, 30, 20, 17, and 15 meter bands.
+
 
 
 
